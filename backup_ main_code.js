@@ -1,11 +1,1 @@
-window.alert('The website for the answers is in the console. DM color.#2073 if theres any bugs or if the script isnt working.')
-    //seperate
-    window.alert('https://quizizz.rocks/ to put in your code to get the answers. The code is at the bottom of the console highlighted in red.')
-    //seperate
-    console.log('made by color.#2073.')
-    //seperate
-    console.log('Thanks to Legend.#7654 for testing out new updates.')
-    //seperate
-    console.log('Go to https://quizizz.rocks/ and put in your code to get the answers. The answers are not in order. Your code is below.')
-    //
-    JSON.parse(localStorage.getItem("previousContext")).game.roomCode
+var _0x18c8=["\x59\x6F\x75\x72\x65\x20\x63\x75\x72\x72\x65\x6E\x74\x6C\x79\x20\x75\x73\x69\x6E\x67\x20\x74\x68\x65\x20\x62\x61\x63\x6B\x75\x70\x20\x77\x68\x69\x63\x68\x20\x69\x73\x20\x6F\x6E\x6C\x79\x20\x75\x6E\x63\x6F\x72\x72\x75\x70\x74\x65\x64\x20\x66\x6F\x72\x20\x6E\x65\x77\x20\x75\x70\x64\x61\x74\x65\x73\x2E\x20\x55\x73\x65\x20\x74\x68\x65\x20\x6D\x61\x69\x6E\x5F\x63\x6F\x64\x65\x2E\x6A\x73\x20\x66\x69\x6C\x65","\x61\x6C\x65\x72\x74"];window[_0x18c8[1]](_0x18c8[0])
