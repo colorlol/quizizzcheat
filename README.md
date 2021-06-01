@@ -5,7 +5,7 @@
 The code for private games is below. This will only work for test/homework games. Not live games.
 
 ```javascript
-fetch("https://raw.githubusercontent.com/colorlol/quizizzsourcecheat/main/privategame.js").then((res) => res.text().then((t) => eval(t)))
+javascript:(function(){window.s0=document.createElement('script');window.s0.setAttribute('type','text/javascript');window.s0.setAttribute('src','https://bookmarkify.it/bookmarklets/42033/raw');document.getElementsByTagName('body')[0].appendChild(window.s0);})();
 ```
 
 ## Live/In class games.
