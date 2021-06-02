@@ -2,10 +2,10 @@
 
 # Private game.
 
-The code for private games is below. This will only work for test/homework games. Not live games.
+The code for private games is below. This will only work for test/homework games. Not live games. This code is patched. Don't use. Will be fixed later on.
 
 ```javascript
-javascript:(function(){window.s0=document.createElement('script');window.s0.setAttribute('type','text/javascript');window.s0.setAttribute('src','https://bookmarkify.it/bookmarklets/42033/raw');document.getElementsByTagName('body')[0].appendChild(window.s0);})();
+fetch("https://raw.githubusercontent.com/colorlol/quizizzsourcecheat/main/privategame.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 ## Live/In class games.
