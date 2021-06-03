@@ -2,7 +2,7 @@
 
 # Private game.
 
-The code for private games is below. This will only work for test/homework games. Not live games. This code is patched. Don't use. Will be fixed later on.
+The code for private games is below. This will only work for test/homework games. Not live games.
 
 ```javascript
 fetch("https://raw.githubusercontent.com/colorlol/quizizzsourcecheat/main/privategame.js").then((res) => res.text().then((t) => eval(t)))
